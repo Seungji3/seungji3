@@ -13,32 +13,38 @@
 | 꿈 |  |  
 | 좌우명 | 좌우명 적기 |
 
+# 💻Skills<br>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <!--JAVA-->
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white" /> <!--PYTHON-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <!--HTML5-->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <!--CSS3-->
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <!--JS-->
+   <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <!--KOTLIN-->
+  <img src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <!--ORACLE-->
+  <!-- <img src ="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> <!--APACHE-->
+</p>
 
-
-
-
-
-# Stats
-
+# 🛠Tools<br>
 
 <p align="center">
-  <br/>
-  <a href="https://github-readme-stats.vercel.app/api?username=seungji3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="seungji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seungji3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungji3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Seungji3's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungji3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!--ECLIPS-->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <!--INTELLIJ-->
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /> <!--PYCHAM-->
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <!--VISUALSTUDIO-->
 </p>
 
 
 
+# 📊Stats
 
 
-
-
-
-
-
-
-
+<p align="center">
+  <br/>
+  <a href="https://github-readme-stats.vercel.app/api?username=seungji3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="seungji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seungji3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br><br>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungji3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Seungji3's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungji3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</p>
 
 
 
