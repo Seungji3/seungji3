@@ -13,7 +13,8 @@
 | 보유 기술 | JAVA / JAVAFX / PYTHON / JSP / 웹(HTML, CSS) |
 | 나의 활동 |  |
 | 나의 프로젝트 |
-
+| 꿈 | 꿈 적기 |
+| 좌우명 | 좌우명 적기 |
 
 <!--
 **Seungji3/seungji3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
