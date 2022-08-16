@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <!--JS-->
    <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <!--KOTLIN-->
   <img src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <!--ORACLE-->
-  <img src ="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" /> <!--Jupyter_Notebook-->
 </p>
 
 # 🛠Tools<br>
@@ -27,6 +26,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!--ECLIPS-->
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <!--INTELLIJ-->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <!--VISUALSTUDIO-->
+  <img src ="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" /> <!--Jupyter_Notebook-->
 </p>
 
 
