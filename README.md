@@ -3,11 +3,11 @@
 ## Seungji profile
 
 
-|제목|설명|
-|:---:|:---:|
-| 소개 | 프로그래밍에 관심이 있는 학생입니다. |
-| 활동 | intel AI Global Impact Festival 참여 |
-| 꿈 | 코딩으로 부족하지 않게 살아가는 것 입니다. |  
+<!--|제목|설명|
+<!--|:---:|:---:|
+<!--| 소개 | 프로그래밍에 관심이 있는 학생입니다. |
+<!--| 활동 | intel AI Global Impact Festival 참여 |
+<!--| 꿈 | 코딩으로 부족하지 않게 살아가는 것 입니다. |  
 
 # 💻Skills<br>
 <p align="center"> 
